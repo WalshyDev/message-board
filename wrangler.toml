@@ -1,0 +1,6 @@
+name = "message-board"
+
+[[ d1_databases ]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "message-board"
+database_id = "bf79abfd-6d14-4b68-9cf4-325b8374b0ec"
